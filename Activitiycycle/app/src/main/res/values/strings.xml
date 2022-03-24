@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="count">Count</string>
+    <string name="textview">Height [sm]</string>
+    <string name="textview2">Mass [kg]</string>
+    <string name="bmi">BMI_Value</string>
+    <string name="your_mass">Enter your body mass</string>
+    <string name="your_height">Enter your height</string>
+    <string name="textview45">TextView</string>
+    <string name="mass">Mass [kg]</string>
+    <string name="mass2">Mass [lb]</string>
+    <string name="imperial_data">Imperial data</string>
+    <string name="metric_data">Metric data</string>
+    <string name="about_author">About author</string>
+    <string name="height">Height [in]</string>
+    <string name="data_type">Data type</string>
+    <string name="back">Back</string>
+    <string name="about">This app was created for educational purposes on March 23, 2022. It allows you to calculate the body mass index in two measurement systems: metric and imperial, as well as get a transcript of the result.</string>
+    <string name="author">The author of the application is a student of the Wroclaw University of Science and Technology - Anna Novozhilova.</string>
+    <string name="body_mass_scale">Body mass scale</string>
+    <string name="your_bmi_is">Your BMI is</string>
+    <string name="scales">scales</string>
+    <string name="history_of_countings">History of countings</string>
+    <string name="bmi1" />
+    <string name="bmi2" />
+    <string name="bmi3" />
+    <string name="bmi4" />
+    <string name="bmi5" />
+    <string name="bmi6" />
+    <string name="bmi7" />
+    <string name="bmi8" />
+    <string name="bmi9" />
+    <string name="bmi10" />
+</resources>

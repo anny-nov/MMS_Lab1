@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/data"
+          android:title="@string/data_type">
+    <menu >
+        <item android:id="@+id/imp"
+              android:title="@string/imperial_data" />
+        <item android:id="@+id/met"
+              android:title="@string/metric_data" />
+    </menu>
+    </item>
+    <item android:id="@+id/auth"
+          android:title="@string/about_author" />
+    <item android:id="@+id/his"
+        android:title="@string/history_of_countings" />
+</menu>
